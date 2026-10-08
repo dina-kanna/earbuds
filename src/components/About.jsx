@@ -21,9 +21,9 @@ export default function About() {
   return (
     <section
       id="about"
-      className="relative overflow-hidden bg-white px-5 py-24 sm:py-32"
+      className="relative overflow-hidden bg-white px-4 py-10 sm:py-13"
     >
-      <div className="pointer-events-none absolute -left-40 top-20 h-96 w-96 rounded-full bg-gray-100 blur-3xl" />
+      <div className="pointer-events-none absolute -left-40 top-20 h-66 w-76 rounded-full bg-gray-100 blur-3xl" />
 
       <div className="pointer-events-none absolute -right-40 bottom-10 h-96 w-96 rounded-full bg-gray-100 blur-3xl" />
 
@@ -31,7 +31,7 @@ export default function About() {
 
         <div className="max-w-full">
 
-          <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-[#f5f5f7] px-4 py-2 text-xs font-semibold tracking-widest text-gray-500">
+          <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-[#f5f5f7] px-1 py-0 text-xs font-semibold tracking-widest text-gray-500">
             <span className="h-1.5 w-1.5 rounded-full bg-black" />
             ABOUT AURA
           </div>

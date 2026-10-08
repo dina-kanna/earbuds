@@ -8,11 +8,11 @@ export default function Hero({ onShop }) {
       id="home"
       className="relative overflow-hidden bg-[#f3f3f5] pt-28"
     >
-      <div className="pointer-events-none absolute left-[-160px] top-32 h-96 w-96 rounded-full bg-gray-300/30 blur-3xl" />
+      <div className="pointer-events-none absolute left-[-160px] top-10 h-70 w-87 rounded-full bg-gray-300/30 blur-3xl" />
 
       <div className="pointer-events-none absolute right-[-120px] top-10 h-[500px] w-[500px] rounded-full bg-white blur-3xl" />
 
-      <div className="mx-auto grid min-h-[760px] max-w-full items-center gap-12 px-5 pb-20 pt-12 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
+      <div className="mx-auto grid min-h-[760px] max-w-full items-center gap-12 px-3 pb-10 pt-0 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
 
 
         <div className="relative z-20">

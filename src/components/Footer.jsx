@@ -10,7 +10,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="relative overflow-hidden bg-[#050505] px-5 pb-6 pt-20 text-white">
+    <footer className="relative overflow-hidden bg-[#050505] px-5 pb-6 pt-0 text-white">
 
       <div className="pointer-events-none absolute -left-40 top-20 h-80 w-80 rounded-full bg-white/[0.04] blur-3xl" />
 

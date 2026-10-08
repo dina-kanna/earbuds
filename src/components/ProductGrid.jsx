@@ -10,13 +10,10 @@ export default function ProductGrid({
   return (
     <section
       id="products"
-      className="scroll-mt-24 bg-[#f5f5f7] px-4 py-20 sm:px-5 sm:py-24"
+      className="scroll-mt-24 bg-[#f5f5f7] px-2 py-10 sm:px-3 sm:py-0"
     >
       <div className="mx-auto w-full max-w-[1500px]">
 
-        {/* =========================
-            HEADER
-        ========================= */}
         <div className="mb-10 flex flex-col justify-between gap-6 md:mb-12 md:flex-row md:items-end">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-400 sm:text-sm">

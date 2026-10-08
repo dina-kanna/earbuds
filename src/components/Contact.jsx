@@ -44,7 +44,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="relative overflow-hidden bg-[#f5f5f7] px-5 py-24 sm:py-32"
+      className="relative overflow-hidden bg-[#f5f5f7] px-4 py-14 sm:py-12"
     >
 
       <div className="pointer-events-none absolute -left-40 top-20 h-96 w-96 rounded-full bg-white blur-3xl" />
